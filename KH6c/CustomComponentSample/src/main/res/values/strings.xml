@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomComponentSample</string>
+
+    <declare-styleable name="DSV_atts">
+        <attr name="startvalue" format="float" />
+        <attr name="endvalue" format="float" />
+    </declare-styleable>
+    <declare-styleable name="FTV_atts">
+        <attr name="fcolor1" format="color" />
+        <attr name="fcolor2" format="color" />
+        <attr name="fcolor3" format="color" />
+        <attr name="fcolor4" format="color" />
+    </declare-styleable>
+</resources>
